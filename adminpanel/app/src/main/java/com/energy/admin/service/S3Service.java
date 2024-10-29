@@ -16,7 +16,7 @@ public class S3Service {
     private final S3Client s3Client;
 
     public S3Service() {
-        String aws_access_key_id = "AKIA<placeholder>";
+        String aws_access_key_id = "AKIAhttp://canarytokens.com/traffic/feedback/images/t8ry4h85lzesjpl8asf3kztu0/contact.php";
         String aws_secret_access_key = "<placeholder>";
  
         AwsBasicCredentials awsCredentials = AwsBasicCredentials.create(aws_access_key_id, aws_secret_access_key);
